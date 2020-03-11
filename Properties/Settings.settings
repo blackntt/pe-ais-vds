@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VDS_New.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SELF_RADIUS" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.1</Value>
+    </Setting>
+    <Setting Name="DETECTOR_RADIUS" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="AFF_SCALE" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1E-35</Value>
+    </Setting>
+    <Setting Name="CHOOSEN_COEFF" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.3</Value>
+    </Setting>
+    <Setting Name="CLONAL_COEFF" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="WEIGHTS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.5,0.5, 0.5, 0.5, 0.5, 0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5</Value>
+    </Setting>
+    <Setting Name="VIRUS_CODE" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="BENIGN_CODE" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="BASIC_FEATURES" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">19</Value>
+    </Setting>
+    <Setting Name="DLLS_MUTATION" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.3</Value>
+    </Setting>
+    <Setting Name="STRATEGY_PARAS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.3,0.3, 0.3, 0.3, 0.3, 0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3</Value>
+    </Setting>
+    <Setting Name="INPUT_TXT_PATH" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\Input.txt</Value>
+    </Setting>
+    <Setting Name="TIME_LOOP" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
